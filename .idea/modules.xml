@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/hw_8.4_kibana-role.iml" filepath="$PROJECT_DIR$/.idea/hw_8.4_kibana-role.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hw_8.4_filebeat-role.iml" filepath="$PROJECT_DIR$/.idea/hw_8.4_filebeat-role.iml" />
     </modules>
   </component>
 </project>
