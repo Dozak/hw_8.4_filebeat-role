@@ -1,3 +1,4 @@
 ---
 filebeat_version: "7.16.3"
 filebeat_home: "/opt/filebeat/{{ filebeat_version }}"
+filebeat_install_type: remote

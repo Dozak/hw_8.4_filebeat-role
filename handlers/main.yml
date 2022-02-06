@@ -1,2 +1,7 @@
 ---
 # handlers file for hw_8.4_filebeat-role
+- name: restart Filebeat
+  become: true
+  service:
+    name: filebeat
+    state: restarted
